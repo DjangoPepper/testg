@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 C'est vrai, Avec des majuscules c'est meiux. 
 J'essaye de regrouper master et seconde bra,che.
-=======
-J met des majuscules c'est plus lisible.
->>>>>>> seconde-branche
